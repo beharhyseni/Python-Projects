@@ -1,2 +1,2 @@
-English Translator Application
+English Translation Application
 
