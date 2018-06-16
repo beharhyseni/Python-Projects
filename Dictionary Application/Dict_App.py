@@ -1,6 +1,10 @@
 import json
 from difflib import get_close_matches
 
+''' 
+*** Simple English-English Translation Application ***
+'''
+
 dict_data = json.load(open("data.json"))
 
 word = input("Enter the word you would like to translate: \n").lower()
